@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteApplication</string>
+
+    <string name="main_text">Todo List</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_new_menu">Add New</string>
+    <string name="title_activity_add_new">AddNewActivity</string>
+    <string name="add_new_title">Add new Task</string>
+</resources>
